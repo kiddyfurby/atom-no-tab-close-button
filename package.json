@@ -3,7 +3,7 @@
   "author": {
 	  "name": "Ben Stanley"
   },
-  "version": "1.0.0",
+  "version": "0.0.0",
   "description": "Removes the close buttons from tabs (you can still close tabs with CMD+W or by clicking tab with Mouse3 button)",
   "keywords": [
 	  "tabs",
